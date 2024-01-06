@@ -7,7 +7,7 @@
 
 ### I love teamwork and learning new technologies related to my stack
 ### Сontact me: 
-[![Telegram Badge](https://img.shields.io/badge/-o_pikush-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/o_pikush) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:pikush.oleksandr@gmail.com) [![LinkedIn Badge](https://img.shields.io/badge/-OleksandrPikush-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/oleksandr-pikush)
+[![Telegram Badge](https://img.shields.io/badge/-o_pikush-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/o_pikush) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:pikush.oleksandr@gmail.com) [![LinkedIn Badge](https://img.shields.io/badge/-Oleksandr_Pikush-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/oleksandr-pikush)
 
 ---
 

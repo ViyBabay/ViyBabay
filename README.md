@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there 👋, my name is Oleksandr
+#### I am Front-end/Fullstack developer
+![I am Front-end/Fullstack developer](https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif)
+
+I love teamwork and learning new technologies related to my stack
+
+Skills: REACT / JS / NODE / TS / NEXT / HTML / CSS
+
+- 🔭 I’m currently working on this page. 
 
 <!--
 **ViyBabay/ViyBabay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -3,6 +3,8 @@
 ![I am Front-end/Fullstack developer](https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif)
 
 I love teamwork and learning new technologies related to my stack
+Сontact me
+[![Telegram Badge](https://img.shields.io/badge/-o_pikush-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/o_pikush) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:pikush.oleksandr@gmail.com)
 
 Skills: REACT / JS / NODE / TS / NEXT / HTML / CSS
 

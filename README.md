@@ -2,7 +2,7 @@
 
 ---
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I+am+Front-end/Fullstack+developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%238A2BE2&lines=I+am+Front-end/Fullstack+developer)](https://git.io/typing-svg)
 ![I am Front-end/Fullstack developer](https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif)
 
 ### I love teamwork and learning new technologies related to my stack
